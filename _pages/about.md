@@ -18,14 +18,13 @@ This course will cover the fundamental principles and usage methods of classic m
 - **Teaching Assistants:**	Yi-Bo Wang (wang_yb@seu.edu.cn), Bo-Lin Wang (wangbl@seu.edu.cn), Zeng Han (zeng_han@seu.edu.cn)
 - **Grading:**	Final exam (60%) + Assignments (40%)
 - **Discussion:** QQ (699720665)
-- **HW submission:** [东大云盘](https://pan.seu.edu.cn/link/9BE41C57470DCAC51C136F2A261E4A53){:target="\_blank"}
-#- **Online lectures:** The lectures will be live-streamed through [Panopto](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f44b4d7-fb4e-49eb-b88d-a9d00125e1b3){:target="\_blank"}, recorded, and made available on [YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn){:target="\_blank"}.
+
 
 ***
 
 
 作业提交要求 （非常重要）
-作业上传地址：东大云盘（注意：请将作业上传到相应的目录）
+作业上传地址：[东大云盘](https://pan.seu.edu.cn/link/9BE41C57470DCAC51C136F2A261E4A53)（注意：请将作业上传到相应的目录）
 作业通过 zip 压缩包上传，压缩包和解压后文件夹名称均为：学号_姓名_1 （若重复提交，请修改后缀 2,3,...，助教将依据最大编号版本判分）
 理论课作业、实验课报告请务必使用 PDF 格式，不接受 WORD、图片等其它文件类型
 未按时提交的作业将自动扣除一定比例分数 (24h内最高得50%分数，超出24h得0分)
