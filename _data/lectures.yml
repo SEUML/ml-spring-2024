@@ -1,4 +1,3 @@
-# - title: "Module 1: Introduction, Representation, and Exact Inference"
 
 - date: Tues, 2024/02/20
   lecturer: 
@@ -26,3 +25,7 @@
     - <a href="https://pan.seu.edu.cn/link/0DCABBC986A29437B634E3C9B8F06F0D" target="_blank">	Newton's Method & Gradient Descent</a>
   logistics:
 
+
+- date: Tues, 2024/02/29
+  title: >
+    <strong>Linear Regression (continued)</strong>
