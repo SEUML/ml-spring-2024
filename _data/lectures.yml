@@ -1,41 +1,27 @@
 # - title: "Module 1: Introduction, Representation, and Exact Inference"
 
 - date: Tues, 2024/02/20
-  lecturer: #Eric
+  lecturer: 
   title: >
     <strong>Introduction to ML</strong>
   slides: "https://palm.seu.edu.cn/weit/ml24/slides/lecture1.pdf"
-  #annotated: "https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
-  #video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
-  #notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
   readings:
     - <a href="https://palm.seu.edu.cn/weit/ml24/resources/VC.pdf" target="_blank">Rademacher Complexity and VC-Dimension</a>
   logistics:
 
 - date: Thurs, 2024/02/22
-  lecturer: #Eric
+  lecturer:
   title: >
     <strong>Introduction to Machine Learning (continued), Linear Regression</strong>
   slides: "https://palm.seu.edu.cn/weit/ml24/slides/lecture1.pdf"
-  #annotated: "https://drive.google.com/open?id=1OLREY-CC8OIZfY_8G1lEdqzSMsNZXHTe"
-  #video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=388ec3f4-de78-4f5e-b5ca-a9d001296630"
-  #notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-02/"
   readings:
-    #- Jordan Textbook, <a href="https://people.eecs.berkeley.edu/~jordan/prelims/chapter2.pdf" target="_blank">Ch. 2</a> (Sec. 2.1)
-    #- Koller and Friedman Textbook, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/readings/Ch%203.pdf" target="_blank">Ch. 3</a>
   logistics:
 
-#- date: 1/21
-#  title: No class (MLK day)
-
 - date: Tues, 2024/02/27
-  lecturer: #Eric
+  lecturer:
   title: >
     <strong>Linear Regression (continued)</strong>
   slides: "https://palm.seu.edu.cn/weit/ml24/slides/lecture2.pdf"
-  #annotated: "https://drive.google.com/open?id=18ZfonufLq-SvXkdITONQkh7rWt9fywxZ"
-  #video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=702de16d-fb04-4906-9014-a9d0012983e2"
-  #notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-03/"
   readings:
     - <a href="https://pan.seu.edu.cn/link/0DCABBC986A29437B634E3C9B8F06F0D" target="_blank">	Newton's Method & Gradient Descent</a>
   logistics:
