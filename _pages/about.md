@@ -1,9 +1,9 @@
 ---
 layout: about
 permalink: /
-title: <b>P</b>robabilistic <b>G</b>raphical <b>M</b>odels
-description: 10-708 • Spring 2019 • Carnegie Mellon University
-logo: cmu-logo.png
+title: <b>M</b>achine <b>L</b>earning
+description: Spring 2024 • Southeast University
+logo: seu-logo.png
 news: true
 ---
 
