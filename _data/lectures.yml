@@ -20,7 +20,7 @@
   lecturer:
   title: >
     <strong>Linear Regression (continued)</strong>
-  slides: "https://palm.seu.edu.cn/weit/ml24/slides/lecture2.pdf"
+  slides: "https://pan.seu.edu.cn:443/link/917B507CD42F8F6C435738407C636197"
   readings:
     - <a href="https://pan.seu.edu.cn/link/0DCABBC986A29437B634E3C9B8F06F0D" target="_blank">	Newton's Method & Gradient Descent</a>
   logistics:
@@ -28,4 +28,7 @@
 
 - date: Thurs, 2024/02/29
   title: >
-    <strong>TBD</strong>
+    <strong>Logistic Regression</strong>
+  slides: "https://pan.seu.edu.cn:443/link/45864CA2AD32B16AB5803CBEC0784220"
+  readings:
+  logistics:
