@@ -4,7 +4,7 @@
   title: >
     <strong>Introduction to ML</strong>
   slides: "https://palm.seu.edu.cn/weit/ml24/slides/lecture1.pdf"
-  readings: >
+  readings:
     - <a href="https://palm.seu.edu.cn/weit/ml24/resources/VC.pdf" target="_blank">Rademacher Complexity and VC-Dimension</a>
   logistics:
 
@@ -21,11 +21,11 @@
   title: >
     <strong>Linear Regression (continued)</strong>
   slides: "https://palm.seu.edu.cn/weit/ml24/slides/lecture2.pdf"
-  readings: >
+  readings:
     - <a href="https://pan.seu.edu.cn/link/0DCABBC986A29437B634E3C9B8F06F0D" target="_blank">	Newton's Method & Gradient Descent</a>
   logistics:
 
 
 - date: Tues, 2024/02/29
   title: >
-    <strong>Linear Regression (continued)</strong>
+    <strong>TBD</strong>
