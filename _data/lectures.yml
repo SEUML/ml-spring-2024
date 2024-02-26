@@ -2,7 +2,7 @@
 - date: Tues, 2024/02/20
   lecturer: 
   title: >
-    <strong>Introduction to ML</strong>
+    <strong>Introduction to Machine Learning</strong>
   slides: "https://palm.seu.edu.cn/weit/ml24/slides/lecture1.pdf"
   readings:
     - <a href="https://palm.seu.edu.cn/weit/ml24/resources/VC.pdf" target="_blank">Rademacher Complexity and VC-Dimension</a>
