@@ -15,7 +15,7 @@ This course will cover the fundamental principles and usage methods of classic m
 - **Time:** Tuesday 9:50-11:25, Thursday 14:00-15:35, Thursday 18:30-20:55 (Week 4-10, 双周), 18:30-20:05 (Week 12-14, 双周)
 - **Location:** 教二-405, Jiulonghu Campus
 - **Instructor:** Associate Researcher [Tong Wei](palm.seu.edu.cn/weit) (weit@seu.edu.cn)
-- **Teaching Assistants:**	Yi-Bo Wang (wang_yb@seu.edu.cn), Bo-Lin Wang (wangbl@seu.edu.cn), Zeng Han (zeng_han@seu.edu.cn)
+- **Teaching Assistants:**	[Yi-Bo Wang](http://palm.seu.edu.cn/homepage/wangyibo/demo/index.html) (wang_yb@seu.edu.cn), [Bo-Lin Wang](http://palm.seu.edu.cn/homepage/wangbolin/index.html) (wangbl@seu.edu.cn), Zeng Han (zeng_han@seu.edu.cn)
 - **Grading:**	Final exam (60%) + Assignments (40%)
 - **Discussion:** QQ (699720665)
 
