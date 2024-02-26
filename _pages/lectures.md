@@ -59,8 +59,5 @@ title: Schedule
 {% else %}
 {% assign current_module = current_module | plus: 1 %}
 {% assign module = item %}
-<tr class="info">
-    <td colspan="5" align="center"><strong>{{ module.title }}</strong></td>
-</tr>
 {% endif %}
 {% endfor %}
