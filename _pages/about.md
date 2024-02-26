@@ -35,12 +35,8 @@ This course will cover the fundamental principles and usage methods of classic m
 
 ### Textbooks
 
-The required textbook for this class is (note that the material of the class goes beyond this book):
-- Daphne Koller and Nir Friedman, [Probabilistic Graphical Models: Principles and Techniques](http://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193/ref=sr_1_1?ie=UTF8&s=books&qid=1250711756&sr=8-1){:target="\_blank"}.
-
-We will also be using excerpts from the following work, which you do not need to purchase:
-- Michael I. Jordan, **An Introduction to Probabilistic Graphical Models**, in preparation.<br/>
-Copies of certain chapters will be made available to students taking the class.
-
-Optional:
-- Kevin Murphy, **Machine Learning: A Probabilistic Perspective**.
+- Pattern Recognition and Machine Learning, Chris Bishop. (Strongly recommended)
+- Machine Learning: a Probabilistic Perspective, Kevin Murphy. (Optional)
+- Foundations of Machine Learning, Mehryar Mohri. (Optional)
+- Machine Learning, Tom Mitchell. (Optional)
+- Additional readings will be made available as appropriate.
