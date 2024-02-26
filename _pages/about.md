@@ -3,7 +3,7 @@ layout: about
 permalink: /
 title: <b>M</b>achine <b>L</b>earning
 description: Spring 2024 • Southeast University
-logo: seu-logo.png
+logo: seu-logo.jpeg
 news: true
 ---
 
