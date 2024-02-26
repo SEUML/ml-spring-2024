@@ -17,10 +17,9 @@ This course will cover the fundamental principles and usage methods of classic m
 - **Instructor:** Associate Researcher [Tong Wei](palm.seu.edu.cn/weit) (weit@seu.edu.cn)
 - **Teaching Assistants:**	Yi-Bo Wang (wang_yb@seu.edu.cn), Bo-Lin Wang (wangbl@seu.edu.cn), Zeng Han (zeng_han@seu.edu.cn)
 - **Grading:**	Final exam (60%) + Assignments (40%)
-- **Discussion:** QQ (699720665){:target="\_blank"}
+- **Discussion:** QQ (699720665)
 - **HW submission:** [东大云盘](https://pan.seu.edu.cn/link/9BE41C57470DCAC51C136F2A261E4A53){:target="\_blank"}
 #- **Online lectures:** The lectures will be live-streamed through [Panopto](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f44b4d7-fb4e-49eb-b88d-a9d00125e1b3){:target="\_blank"}, recorded, and made available on [YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn){:target="\_blank"}.
-#- **Contact:** Students should ask all course-related questions on [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}, where you will also find announcements. #For external enquiries, personal matters, or in emergencies, you can email us at *10708-instructor@cs.cmu.edu*.
 
 ***
 
