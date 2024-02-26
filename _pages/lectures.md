@@ -23,7 +23,7 @@ title: Schedule
 
 <tr class="{{ event_type }}">
     <th scope="row">{{ lecture.date }}</th>
-    {% if lecture.title contains 'No class' or forloop.last %}
+    {% if lecture.title contains 'No class' %}
     {% assign skip_classes = skip_classes | plus: 1 %}
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
@@ -59,5 +59,8 @@ title: Schedule
 {% else %}
 {% assign current_module = current_module | plus: 1 %}
 {% assign module = item %}
+#<tr class="info">
+#    <td colspan="5" align="center"><strong>{{ module.title }}</strong></td>
+#</tr>
 {% endif %}
 {% endfor %}
