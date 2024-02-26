@@ -1,12 +1,12 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: SAILING lab
-name: 10-708 PGM
-title: Probabilistic Graphical Models
-email: 10708-instructor@cs.cmu.edu
+author: SEUML
+name: ML
+title: Machine Learning
+email: #10708-instructor@cs.cmu.edu
 description: >
-  10-708 - Probabilistic Graphical Models - Carnegie Mellon University - Spring 2019
+  Machine Learning - Southeast University - Spring 2024
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -16,16 +16,16 @@ baseurl:  # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: sailinglab
-google_analytics: UA-131744305-1
-youtube_channel: UCim-E6bNz7lUyKZwhgN6S1A
+github_username: SEUML
+google_analytics: 
+youtube_channel: # UCim-E6bNz7lUyKZwhgN6S1A
 rss:  # notes rss
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Course Notes
-blog_description: The notes written by students and edited by instructors
+blog_name: #Course Notes
+blog_description: #The notes written by students and edited by instructors
 
 # Pagination
 paginate: 10
