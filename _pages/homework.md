@@ -1,10 +1,27 @@
 ---
 layout: page
 permalink: /homework/
-title: Homework Assignments (TBA)
+title: Laboratory and Homework Assignments
 ---
 
-- Homework 1: [assignment.pdf]({{ "/assets/assignments/hw1/assignment_v1.1.pdf" | relative_url }}){:target="\_blank"}, [latex.zip]({{ "/assets/assignments/hw1/latex_v1.1.zip" | relative_url }}){:target="\_blank"}, [code.zip]({{ "/assets/assignments/hw1/code.zip" | relative_url }}){:target="\_blank"}
-- Homework 2: [assignment.pdf]({{ "/assets/assignments/hw2/assignment.pdf" | relative_url }}){:target="\_blank"}, [latex.zip]({{ "/assets/assignments/hw2/latex.zip" | relative_url }}){:target="\_blank"}, [data.zip]({{ "/assets/assignments/hw2/data.zip" | relative_url }}){:target="\_blank"}
-- Homework 3: [assignment.pdf]({{ "/assets/assignments/hw3/assignment.pdf" | relative_url }}){:target="\_blank"}, [latex.zip]({{ "/assets/assignments/hw3/latex.zip" | relative_url }}){:target="\_blank"}
-- Homework 4: [assignment.pdf]({{ "/assets/assignments/hw4/assignment.pdf" | relative_url }}){:target="\_blank"}, [latex.zip]({{ "/assets/assignments/hw4/latex.zip" | relative_url }}){:target="\_blank"}
+# Homework Assignments
+There will be 4 homework assignments during the semester. You may discuss the homework questions with your peers, but the end product that you turn in should be your own work. We want you to learn with and from your peers, but each of you is responsible for your own work.
+
+
+- Homework 1: (released: March 4, 2024, deadline: March 24, 2024)
+[assignment]({{ "/assets/assignments/hw1/assignment_v1.pdf" | relative_url }}){:target="\_blank"}, [latex template]({{ "/assets/assignments/hw1/latex_v1.tex" | relative_url }}){:target="\_blank"}
+- Homework 2: (not released yet)
+- Homework 3: (not released yet)
+- Homework 4: (not released yet)
+
+***
+
+# Laboratory Assignments
+
+There will be four laboratories. Each laboratory is meant to implement some machine learning algorithms and then solidify the student's understanding.
+
+
+- Laboratory 1: (not released yet)
+- Laboratory 2: (not released yet)
+- Laboratory 3: (not released yet)
+- Laboratory 4: (not released yet)
