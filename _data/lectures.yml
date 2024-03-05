@@ -37,7 +37,9 @@
   title: >
     <strong>Logistic Regression (continued)</strong>
   slides: "https://pan.seu.edu.cn:443/link/20A54FC69AE96D402FB508F120C1EBD5"
-  readings: <a href="https://www.princeton.edu/~aaa/Public/Teaching/ORF523/S16/ORF523_S16_Lec7_gh.pdf" target="_blank"> Convexity </a>
+  readings: 
+    - <a href="https://www.princeton.edu/~aaa/Public/Teaching/ORF523/S16/ORF523_S16_Lec7_gh.pdf" target="_blank"> Convexity </a>
+    - <a href="https://en.wikipedia.org/wiki/Taylor_series" target="_blank"> Taylor series </a>
   logistics: HW1 Out
 
 # - date: Thurs, 2024/03/07
