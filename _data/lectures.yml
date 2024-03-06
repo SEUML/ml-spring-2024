@@ -44,7 +44,7 @@
 - date: Thurs, 2024/03/07
   title: >
     <strong>Logistic Regression (continued)</strong>
-  slides: "./assets/slides/lecture3.pdf"
+  slides: "../assets/slides/lecture3.pdf"
   readings: 
     - <a href="https://en.wikipedia.org/wiki/Taylor_series" target="_blank"> Taylor series </a>
   logistics:
