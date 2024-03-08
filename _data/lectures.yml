@@ -49,7 +49,7 @@
     - <a href="https://en.wikipedia.org/wiki/Taylor_series" target="_blank"> Taylor series </a>
   logistics:
 
-  - date: Tues, 2024/03/12
+- date: Tues, 2024/03/12
   title: >
     <strong> Model Selection & Evaluation (continued)</strong>
   slides: "../assets/slides/lecture4.pdf"
@@ -57,4 +57,3 @@
     - <a href="https://en.wikipedia.org/wiki/Multi-label_classification" target="_blank"> Multi-class and Multi-labels </a>
   logistics:
 
-  
