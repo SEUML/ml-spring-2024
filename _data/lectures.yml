@@ -48,3 +48,10 @@
   readings: 
     - <a href="https://en.wikipedia.org/wiki/Taylor_series" target="_blank"> Taylor series </a>
   logistics:
+
+  - date: Tues, 2024/03/12
+  title: >
+    <strong> Model Selection & Evaluation (continued)</strong>
+  slides: "../assets/slides/lecture4.pdf"
+  readings: 
+  logistics:
