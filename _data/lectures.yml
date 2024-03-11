@@ -55,4 +55,5 @@
   slides: "../assets/slides/lecture4.pdf"
   readings: 
     - <a href="https://en.wikipedia.org/wiki/Multi-label_classification" target="_blank"> Multi-class and Multi-labels </a>
+    - <a href="https://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf" target="_blank">The Relationship Between Precision-Recall and ROC Curves </a>
   logistics:
