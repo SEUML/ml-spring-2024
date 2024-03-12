@@ -63,5 +63,5 @@
   slides: "../assets/slides/lecture4.pdf"
   readings: 
     - <a href="https://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf" target="_blank">The Relationship Between Precision-Recall and ROC Curves </a>
-  logistics:
+  logistics: Lab1 Out
 
