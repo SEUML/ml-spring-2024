@@ -22,7 +22,7 @@ There will be four homework assignments during the semester. You may discuss the
 There will be four laboratories. Each laboratory is meant to implement some machine learning algorithms and then solidify the student's understanding.
 
 
-- Laboratory 1: (not released yet)
+- Laboratory 1: (released: March 14, 2024, deadline: March 31, 2024)
 - Laboratory 2: (not released yet)
 - Laboratory 3: (not released yet)
 - Laboratory 4: (not released yet)
