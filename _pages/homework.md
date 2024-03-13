@@ -23,6 +23,15 @@ There will be four laboratories. Each laboratory is meant to implement some mach
 
 
 - Laboratory 1: (released: March 14, 2024, deadline: March 31, 2024)
+<br>
+[[Warm-up]]({{ "/assets/assignments/lab1/Prerequisties.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
+[[Task]]({{ "/assets/assignments/lab1/Experiment_1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"}  
+[[Jupyter Notebook]]({{ "/assets/assignments/lab1/Experiment_1.ipynb" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
+[[Report Template]]({{ "/assets/assignments/lab1/Template.doc" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
+[[diabets_train]]({{ "/assets/assignments/lab1/diabets_train.csv" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
+[[diabets_test]]({{ "/assets/assignments/lab1/diabets_test.csv" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
+[[pendigit_train]]({{ "/assets/assignments/lab1/pendigit_train.csv" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
+[[pendigit_test]]({{ "/assets/assignments/lab1/pendigit_test.csv" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
 - Laboratory 2: (not released yet)
 - Laboratory 3: (not released yet)
 - Laboratory 4: (not released yet)
