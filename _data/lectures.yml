@@ -65,3 +65,9 @@
     - <a href="https://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf" target="_blank">The Relationship Between Precision-Recall and ROC Curves </a>
   logistics: Lab1 Out
 
+- date: Tues, 2024/03/19
+  title: >
+    <strong> Linear Discriminant Analysis</strong>
+  slides: "../assets/slides/lecture5.pdf"
+  readings: 
+  logistics:
