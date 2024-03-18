@@ -69,7 +69,7 @@
   title: >
     <strong> Linear Discriminant Analysis</strong>
   slides: "../assets/slides/lecture5.pdf"
-  readings: 
+  readings: - <a href="https://en.wikipedia.org/wiki/QR_algorithm#Finding_eigenvalues_versus_finding_eigenvectors" target="_blank"> QR algorithm </a>
   logistics:
 
 - date: Thurs, 2024/03/21
