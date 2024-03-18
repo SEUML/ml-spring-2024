@@ -69,7 +69,9 @@
   title: >
     <strong> Linear Discriminant Analysis</strong>
   slides: "../assets/slides/lecture5.pdf"
-  readings: - <a href="https://en.wikipedia.org/wiki/QR_algorithm#Finding_eigenvalues_versus_finding_eigenvectors" target="_blank"> QR algorithm </a>
+  readings: 
+  - <a href="https://en.wikipedia.org/wiki/QR_algorithm#Finding_eigenvalues_versus_finding_eigenvectors" target="_blank"> QR algorithm </a>
+  - <a href="https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process" target="_blank"> Gram–Schmidt process </a>
   logistics:
 
 - date: Thurs, 2024/03/21
