@@ -71,3 +71,17 @@
   slides: "../assets/slides/lecture5.pdf"
   readings: 
   logistics:
+
+- date: Thurs, 2024/03/21
+  title: >
+    <strong> Linear Discriminant Analysis</strong>
+  slides: "../assets/slides/lecture5.pdf"
+  readings: 
+  logistics:
+
+- date: Tues, 2024/03/26
+  title: >
+    <strong> Support Vector Machine </strong>
+  slides: "../assets/slides/lecture5.pdf"
+  readings: 
+  logistics: HW1 Due
