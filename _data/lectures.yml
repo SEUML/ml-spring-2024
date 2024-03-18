@@ -82,20 +82,20 @@
 - date: Tues, 2024/03/26
   title: >
     <strong> Support Vector Machine </strong>
-  slides: "../assets/slides/lecture5.pdf"
+  slides: "../assets/slides/lecture6.pdf"
   readings: 
   logistics: HW1 Due
 
 - date: Thurs, 2024/03/28
   title: >
     <strong> Support Vector Machine (continued)</strong>
-  slides: "../assets/slides/lecture5.pdf"
+  slides: "../assets/slides/lecture6.pdf"
   readings: 
   logistics:
 
 - date: Tues, 2024/04/02
   title: >
     <strong> Support Vector Machine (continued)</strong>
-  slides: "../assets/slides/lecture5.pdf"
+  slides: "../assets/slides/lecture6.pdf"
   readings: 
   logistics: Lab1 Due
