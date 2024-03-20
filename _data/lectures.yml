@@ -79,6 +79,8 @@
     <strong> Linear Discriminant Analysis</strong>
   slides: "../assets/slides/lecture5.pdf"
   readings: 
+  - - <a href="https://en.wikipedia.org/wiki/Covariance_matrix" target="_blank"> Covariance matrix </a>
+  - <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance" target="_blank"> Mahalanobis distance </a>
   logistics:
 
 - date: Tues, 2024/03/26
