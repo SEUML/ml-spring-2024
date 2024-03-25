@@ -79,7 +79,7 @@
     <strong> Linear Discriminant Analysis</strong>
   slides: "../assets/slides/lecture5.pdf"
   readings: 
-  - - <a href="https://en.wikipedia.org/wiki/Covariance_matrix" target="_blank"> Covariance matrix </a>
+  - <a href="https://en.wikipedia.org/wiki/Covariance_matrix" target="_blank"> Covariance matrix </a>
   - <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance" target="_blank"> Mahalanobis distance </a>
   logistics:
 
@@ -95,6 +95,7 @@
     <strong> Support Vector Machine (Soft margin)</strong>
   slides: "../assets/slides/lecture6.pdf"
   readings: 
+  -  <a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F15/scribes/11-dual-gen-scribed.pdf" target="_blank"> Primal and dual problems </a>
   logistics: Lab2 Out
 
 - date: Tues, 2024/04/02
