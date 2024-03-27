@@ -85,14 +85,14 @@
 
 - date: Tues, 2024/03/26
   title: >
-    <strong> Support Vector Machine (Hard margin) </strong>
+    <strong> Support Vector Machine (Formulation) </strong>
   slides: "../assets/slides/lecture6.pdf"
   readings: 
   logistics: HW1 Due
 
 - date: Thurs, 2024/03/28
   title: >
-    <strong> Support Vector Machine (Soft margin)</strong>
+    <strong> Support Vector Machine (Optimization)</strong>
   slides: "../assets/slides/lecture6.pdf"
   readings: 
   -  <a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F15/scribes/11-dual-gen-scribed.pdf" target="_blank"> Primal and dual problems </a>
@@ -100,7 +100,7 @@
 
 - date: Tues, 2024/04/02
   title: >
-    <strong> Support Vector Machine (Kernel)</strong>
+    <strong> Support Vector Machine (Soft margin)</strong>
   slides: "../assets/slides/lecture6.pdf"
   readings: 
   logistics: Lab1 Due
