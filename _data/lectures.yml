@@ -105,42 +105,42 @@
   readings: 
   logistics: Lab1 Due
 
-  - date: Tues, 2024/04/04
-  title: >
-    <strong> No class </strong>
-  slides: "../assets/slides/lecture6.pdf"
-  readings: 
-  logistics: 
-
-- date: Thurs, 2024/04/09
+- date: Thurs, 2024/04/04
   title: >
     <strong> Neural Networks</strong>
   slides: "../assets/slides/lecture7.pdf"
   readings: 
   logistics: 
 
-- date: Tues, 2024/04/11
+- date: Tues, 2024/04/09
   title: >
     <strong> Convolutional Neural Networks</strong>
   slides: "../assets/slides/lecture8.pdf"
   readings: 
   logistics: 
 
-- date: Thurs, 2024/04/16
+- date: Thurs, 2024/04/11
   title: >
     <strong> Recurrent Neural Networks</strong>
   slides: "../assets/slides/lecture9.pdf"
   readings: 
   logistics: 
 
-- date: Tues, 2024/04/18
+- date: Tues, 2024/04/16
   title: >
     <strong> Decision Tree</strong>
   slides: "../assets/slides/lecture10.pdf"
   readings: 
   logistics: 
 
-- date: Thurs, 2024/04/23
+- date: Thurs, 2024/04/18
+  title: >
+    <strong> Decision Tree (continued)</strong>
+  slides: "../assets/slides/lecture10.pdf"
+  readings: 
+  logistics: 
+
+- date: Tues, 2024/04/23
   title: >
     <strong> Decision Tree (continued)</strong>
   slides: "../assets/slides/lecture10.pdf"
