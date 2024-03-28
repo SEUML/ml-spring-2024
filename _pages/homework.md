@@ -32,7 +32,7 @@ There will be four laboratories. Each laboratory is meant to implement some mach
 [[diabetes_test]]({{ "/assets/assignments/lab1/diabetes_test.csv" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
 [[pendigit_train]]({{ "/assets/assignments/lab1/pendigit_train.csv" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
 [[pendigit_test]]({{ "/assets/assignments/lab1/pendigit_test.csv" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
-- Laboratory 2: (*released: March 28, 2024, deadline: TBA*)
+- Laboratory 2: (*released: March 28, 2024, deadline: April 16, 2024*)
 <br>
 [[Task]]({{ "/assets/assignments/lab2/lab2.zip" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"}
 - Laboratory 3: (not released yet)
