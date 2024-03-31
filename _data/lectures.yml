@@ -114,33 +114,33 @@
 
 - date: Tues, 2024/04/09
   title: >
+    <strong> Neural Networks: Introduction</strong>
+  slides: "../assets/slides/lecture7.pdf"
+  readings: 
+  logistics: 
+
+- date: Tues, 2024/04/11
+  title: >
     <strong> Convolutional Neural Networks</strong>
   slides: "../assets/slides/lecture8.pdf"
   readings: 
   logistics: 
 
-- date: Thurs, 2024/04/11
+- date: Thurs, 2024/04/16
   title: >
     <strong> Recurrent Neural Networks</strong>
   slides: "../assets/slides/lecture9.pdf"
   readings: 
   logistics: 
 
-- date: Tues, 2024/04/16
+- date: Tues, 2024/04/18
   title: >
     <strong> Decision Tree</strong>
   slides: "../assets/slides/lecture10.pdf"
   readings: 
   logistics: 
 
-- date: Thurs, 2024/04/18
-  title: >
-    <strong> Decision Tree (continued)</strong>
-  slides: "../assets/slides/lecture10.pdf"
-  readings: 
-  logistics: 
-
-- date: Tues, 2024/04/23
+- date: Thurs, 2024/04/23
   title: >
     <strong> Decision Tree (continued)</strong>
   slides: "../assets/slides/lecture10.pdf"
