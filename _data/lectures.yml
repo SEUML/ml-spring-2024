@@ -103,7 +103,7 @@
     <strong> Support Vector Machine (Soft margin)</strong>
   slides: "../assets/slides/lecture6.pdf"
   readings: 
-  logistics: Lab1 Due
+  logistics: Lab1 Due; HW2 Out
 
 - date: Thurs, 2024/04/04
   title: >
@@ -145,4 +145,4 @@
     <strong> Decision Tree (continued)</strong>
   slides: "../assets/slides/lecture10.pdf"
   readings: 
-  logistics: 
+  logistics: HW2 Due
