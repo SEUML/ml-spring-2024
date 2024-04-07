@@ -96,6 +96,7 @@
   slides: "../assets/slides/lecture6.pdf"
   readings: 
   -  <a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F15/scribes/11-dual-gen-scribed.pdf" target="_blank"> Primal and dual problems </a>
+  -  <a href="https://alex.smola.org/teaching/cmu2013-10-701x/slides/R5-duality_svm.pdf" target="_blank"> Duality and SVM </a>
   logistics: Lab2 Out
 
 - date: Tues, 2024/04/02
@@ -103,6 +104,7 @@
     <strong> Support Vector Machine (Soft margin)</strong>
   slides: "../assets/slides/lecture6.pdf"
   readings: 
+    - <a href="http://jitkomut.eng.chula.ac.th/optim/duality.pdf" target="_blank"> Duality Theory </a>
   logistics: Lab1 Due; HW2 Out
 
 - date: Thurs, 2024/04/04
@@ -116,7 +118,8 @@
   title: >
     <strong> Support Vector Machine (Kernel)</strong>
   slides: "../assets/slides/lecture6.pdf"
-  readings: 
+  readings:
+    - <a href="https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05a.representer-theorem.pdf" target="_blank"> The Representer Theorem </a>
   logistics: 
 
 - date: Thurs, 2024/04/11
