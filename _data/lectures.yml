@@ -146,14 +146,14 @@
 
 - date: Tues, 2024/04/23
   title: >
-    <strong> Convolutional Neural Network </strong>
-  slides: "../assets/slides/lecture9.pdf"
+    <strong> Backpropagation</strong>
+  slides: "../assets/slides/lecture8.pdf"
   readings: 
   logistics: HW2 Due
 
 - date: Thurs, 2024/04/25
   title: >
-    <strong> Recurrent Neural Networks </strong>
-  slides: "../assets/slides/lecture10.pdf"
+    <strong> Convolutional Neural Network </strong>
+  slides: "../assets/slides/lecture9.pdf"
   readings: 
   logistics: 
