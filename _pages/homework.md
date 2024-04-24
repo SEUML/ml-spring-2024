@@ -37,5 +37,7 @@ There will be four laboratories. Each laboratory is meant to implement some mach
 - Laboratory 2: (*released: March 28, 2024, deadline: April 16, 2024*)
 <br>
 [[Task]]({{ "/assets/assignments/lab2/lab2.zip" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"}
-- Laboratory 3: (not released yet)
+- Laboratory 3: (*released: April 25, 2024, deadline: May 14, 2024*)
+<br>
+[[Task]]({{ "/assets/assignments/lab3/lab3.zip" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"}
 - Laboratory 4: (not released yet)
