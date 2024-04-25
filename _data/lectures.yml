@@ -157,3 +157,10 @@
   slides: "../assets/slides/lecture9.pdf"
   readings: 
   logistics: Lab3 Out
+
+- date: Sun, 2024/04/28
+  title: >
+    <strong> Recurrent Neural Network </strong>
+  slides: "../assets/slides/lecture10.pdf"
+  readings: 
+  logistics:
