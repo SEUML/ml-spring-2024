@@ -13,8 +13,10 @@ There will be four homework assignments during the semester. You may discuss the
 [[Assignment]]({{ "/assets/assignments/hw1/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw1/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw1/solution_v1.pdf" | relative_url }})
 - Homework 2: (*released: April 2, 2024, deadline: April 23, 2024*)
 <br>
-[[Assignment]]({{ "/assets/assignments/hw2/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw2/latex_v1.tex" | relative_url }}){:target="\_blank"}
-- Homework 3: (not released yet)
+[[Assignment]]({{ "/assets/assignments/hw2/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw2/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw2/solution_v1.pdf" | relative_url }})
+- Homework 3: (*released: April 30, 2024, deadline: May 21, 2024*)
+<br>
+[[Assignment]]({{ "/assets/assignments/hw3/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw3/latex_v1.tex" | relative_url }}){:target="\_blank"}
 - Homework 4: (not released yet)
 
 ***
