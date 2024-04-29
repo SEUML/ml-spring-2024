@@ -167,14 +167,14 @@
 
 - date: Tues, 2024/04/30
   title: >
-    <strong> Recurrent Neural Network </strong>
+    <strong> Recurrent Neural Network, Decision Tree </strong>
   slides: "../assets/slides/lecture10.pdf"
   readings: 
   logistics: HW3 Out
 
 - date: Tues, 2024/05/07
   title: >
-    <strong> Decision Tree </strong>
+    <strong> Decision Tree (continued)</strong>
   slides: "../assets/slides/lecture11.pdf"
   readings: 
     - <a href="https://www.princeton.edu/~cuff/ele201/kulkarni_text/information.pdf" target="_blank"> Information, Entropy, and Coding </a>
