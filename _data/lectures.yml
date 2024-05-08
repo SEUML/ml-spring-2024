@@ -186,3 +186,10 @@
   slides: "../assets/slides/lecture11.pdf"
   readings: 
   logistics: 
+
+- date: Tues, 2024/05/14
+  title: >
+    <strong> Bayesian Classifier </strong>
+  slides: "../assets/slides/lecture12.pdf"
+  readings: 
+  logistics: Lab3 Due
