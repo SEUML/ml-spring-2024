@@ -174,8 +174,15 @@
 
 - date: Tues, 2024/05/07
   title: >
-    <strong> Decision Tree (continued)</strong>
+    <strong> Decision Tree</strong>
   slides: "../assets/slides/lecture11.pdf"
   readings: 
     - <a href="https://www.princeton.edu/~cuff/ele201/kulkarni_text/information.pdf" target="_blank"> Information, Entropy, and Coding </a>
+  logistics: 
+
+  - date: Thurs, 2024/05/09
+  title: >
+    <strong> Decision Tree (continued)</strong>
+  slides: "../assets/slides/lecture11.pdf"
+  readings: 
   logistics: 
