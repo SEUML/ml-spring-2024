@@ -191,5 +191,6 @@
   title: >
     <strong> Bayesian Classifier </strong>
   slides: "../assets/slides/lecture12.pdf"
-  readings: - <a href="https://www.lri.fr/~sebag/COURS/EM_algorithm.pdf" target="_blank"> The Expectation Maximization Algorithm </a>
+  readings: 
+    - <a href="https://www.lri.fr/~sebag/COURS/EM_algorithm.pdf" target="_blank"> The Expectation Maximization Algorithm </a>
   logistics: Lab3 Due
