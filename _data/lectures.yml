@@ -209,11 +209,12 @@
   slides: "../assets/slides/lecture12.pdf"
   readings: 
     - <a href="https://www.lri.fr/~sebag/COURS/EM_algorithm.pdf" target="_blank"> The Expectation Maximization Algorithm </a>
-  logistics: HW4 Out
+  logistics: HW3 Due; HW4 Out
 
 - date: Thurs, 2024/05/23
   title: >
     <strong> Ensemble </strong>
   slides: "../assets/slides/lecture13.pdf"
   readings: 
-  logistics:
+  - <a href="https://www.cs.toronto.edu/~mbrubake/teaching/C11/Handouts/AdaBoost.pdf" target="_blank"> AdaBoost </a>
+  logistics: Lab4 Out
