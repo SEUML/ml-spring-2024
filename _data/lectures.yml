@@ -217,4 +217,5 @@
   slides: "../assets/slides/lecture13.pdf"
   readings: 
   - <a href="https://www.cs.toronto.edu/~mbrubake/teaching/C11/Handouts/AdaBoost.pdf" target="_blank"> AdaBoost </a>
+  - <a href="https://www.cs.toronto.edu/~rgrosse/courses/csc311_f20/slides/lec06.pdf" target="_blank"> Bagging, AdaBoost </a>
   logistics: Lab4 Out
