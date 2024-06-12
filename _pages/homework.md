@@ -19,7 +19,7 @@ There will be four homework assignments during the semester. You may discuss the
 [[Assignment]]({{ "/assets/assignments/hw3/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw3/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw3/solution_v1.pdf" | relative_url }})
 - Homework 4: (*released: May 20, 2024, deadline: June 10, 2024*)
 <br>
-[[Assignment]]({{ "/assets/assignments/hw4/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw4/latex_v1.tex" | relative_url }}){:target="\_blank"}
+[[Assignment]]({{ "/assets/assignments/hw4/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw4/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw4/solution_v1.pdf" | relative_url }})
 
 ***
 
@@ -47,6 +47,6 @@ There will be four laboratories. Each laboratory is meant to implement some mach
 <br>
 [[Task]]({{ "/assets/assignments/lab3/lab3.zip" | relative_url }})
 [[Solution]]({{ "/assets/assignments/lab3/solution_v1.ipynb" | relative_url }})
-- Laboratory 4: (*released: May 21, 2024, deadline: June 12, 2024*)
+- Laboratory 4: (*released: May 21, 2024, deadline: June 16, 2024*)
 <br>
 [[Task]]({{ "/assets/assignments/lab4/lab4.zip" | relative_url }})
