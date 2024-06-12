@@ -17,7 +17,7 @@ There will be four homework assignments during the semester. You may discuss the
 - Homework 3: (*released: April 30, 2024, deadline: May 21, 2024*)
 <br>
 [[Assignment]]({{ "/assets/assignments/hw3/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw3/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw3/solution_v1.pdf" | relative_url }})
-- Homework 4: (*released: May 20, 2024, deadline: June 18, 2024*)
+- Homework 4: (*released: May 20, 2024, deadline: June 16, 2024*)
 <br>
 [[Assignment]]({{ "/assets/assignments/hw4/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw4/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw4/solution_v1.pdf" | relative_url }})
 
